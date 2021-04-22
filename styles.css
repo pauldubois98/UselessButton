@@ -5,7 +5,7 @@ body{
     justify-items: center;
 }
 h1{
-    color: red;
+    color: #6B0DFA;
     font-size: 3em;
     margin: 1em;
     padding: 0;
@@ -16,15 +16,15 @@ h1{
     height: 10%;
     width: 80%;
     font-size: 2em;
-    background-color: orange;
-    color: black;
+    background-color: #B9C9DE;
+    color: #0925F5;
     text-align: center;
     box-shadow: grey 2px 2px 0 0;
     border-radius: 5em;
     margin-top: 20%em;
 }
 #button:active{
-    background-color: orangered;
+    background-color: white;
     box-shadow: grey 1px 1px 0 0;
     
 }
